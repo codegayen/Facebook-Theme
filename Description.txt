@@ -1,0 +1,58 @@
+Change the Color  of Your Facebook.
+About  Facebook theme presets are included using Material Design Color System. 
+You get the color theme of your choice on Facebook without any clicks.
+Not only the color theme but also the Glow is here.
+
+==================================================
+Developed by Edge and Google, that support the best practices of user interface 
+design. Backed by open-source code, Material streamlines collaboration 
+between designers and developers, and helps teams quickly build 
+beautiful products.
+
+Material Design comes designed with a built-in, baseline theme that 
+can be used as-is, straight out of the proverbial box. This includes 
+default colors for primary, secondary, and their variants. This 
+baseline theme also includes additional colors that define your UI, 
+such as the colors for backgrounds, surfaces, errors, typography, 
+and iconography. All of these colors can be  for your needs.
+
+Principes of Material Design Color System
+
+Hierarchical
+Color indicates which elements are interactive, how they relate to 
+other elements, and their level of prominence. Important elements 
+should stand out the most.
+
+Legible
+Text and important elements, like icons, should meet legibility 
+standards when appearing on colored backgrounds, across all screen 
+and device types.
+
+Expressive
+Reinforce brand by showing brand colors at memorable moments 
+that reinforce your brand’s style.
+
+Primary color
+A primary color is the color displayed most frequently across your 
+app’s screens and components. If you don’t have a secondary color, 
+your primary color can also be used to accent elements.
+
+Secondary color
+A secondary color provides more ways to accent and distinguish your 
+product. Having a secondary color is optional, and should be applied 
+sparingly to accent select parts of  UI.
+
+================================================
+★ Features of Cool Upgrades for Facebook:
+✔ About Facebook Theme Presets
+✔ Material Design Color System
+✔ Change Header & Background Color
+✔ Change every Text Color
+✔ Change Border & Button Colors
+✔ Simple and clear interface to apply your themes
+✔ Very nice color gloing interface
+
+================================================
+Facebook™ is a trademark of Facebook Inc., registered in the U.S. 
+and other countries. This is an independent project developed by 
+me and has no relationship to Facebook™ or Facebook Inc.
